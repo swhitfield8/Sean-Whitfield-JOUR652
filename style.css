@@ -4,7 +4,7 @@ body{
   font-size: 1em;
   color: #444;
 }
-name{
+#name{
   font-size: 3em;
   color: #33485e;
   text-transform: uppercase;
@@ -39,7 +39,7 @@ h3{
   font-size: 1em;
   text-weight: 600;
 }
-  organization{
+  .organization{
     font-size: 1.2em;
     font-style: italics;
     text-weight: 400;
@@ -54,7 +54,7 @@ p{
 li{
   font-size: 1em;
 }
-container{
+#container{
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
