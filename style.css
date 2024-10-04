@@ -44,9 +44,13 @@ h3{
     font-style: italics;
     text-weight: 400;
   }
-h5{
+.date{
   font-size: 1em;
   text-weight: 700;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 p{
   font-size: 1em;
