@@ -4,10 +4,15 @@ body{
   font-size: 1em;
   color: #444;
 }
-h1{
+name{
   font-size: 3em;
   color: #33485e;
   text-transform: uppercase;
+  width: 60%;
+  max-width: 300px;
+  margin: 0 auto;
+  border-bottom-width: 1px;
+  border-bottom-color: #33485e;
 }
 title{
   font-size: 1.5em;
