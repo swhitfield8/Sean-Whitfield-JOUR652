@@ -28,3 +28,7 @@ h3{
     font-style: italics;
     text-weight: 400;
   }
+h5{
+  font-size: 1em;
+  text-weight: 700;
+}
