@@ -19,11 +19,21 @@ title{
   color: #33485e;
   text-transform: uppercase;
 }
-h2{
+sectionheader{
   font-size: 1.5em;
   background-color: ##33485e;
   text-transform: uppercase;
   text-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 0px;
+  padding-left: 10px;
+  width: 100%;
+  min-width: 300px;
 }
 h3{
   font-size: 1em;
