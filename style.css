@@ -1,5 +1,15 @@
 body{
   font-family: "Open Sans", Arial;
   font-size: 1em;
-  color: #444 
+  color: #444;
+}
+h1{
+  font-size: 3em;
+  color: #33485e;
+  text-transform: uppercase;
+}
+title{
+  font-size: 1.5em;
+  color: #33485e;
+  text-transform: uppercase;
 }
