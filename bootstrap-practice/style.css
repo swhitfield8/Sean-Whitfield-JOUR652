@@ -7,3 +7,8 @@ blockquote{
     color: red;
     font-size: 200%;
 }
+.caption{
+    font-style: italic;
+    color: red;
+    font-size:small;
+}
