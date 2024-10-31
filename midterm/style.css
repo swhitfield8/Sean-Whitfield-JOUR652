@@ -1,0 +1,46 @@
+h5{
+    font-size: large;
+    font-family:'Times New Roman',Times, serif;
+}
+h4.subheading{
+    font-size: medium;
+    font-family:Arial, sans-serif;
+}
+*headline should have an image as the background*
+h1{
+    margin: 0 auto;
+    width: fit-content;
+    background-size: contain;
+    content: url("/pipes.jpg");
+    font-size: large;
+}
+p{
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:smaller, 12px; 
+}
+#container{
+    font-size: 16px;
+}
+#content{
+    margin: 0 auto;
+    width: 900px;
+}
+img{
+    align-content: right;
+}
+.caption{
+    font-style: italic, oblique;
+    color: red;
+    font-size: small;
+}
+div{
+    width: fit-content;
+}
+#byline{
+    font-size: small;
+}
+blockquote{
+    font-style: bold;
+    font-size:105%;
+    background-color: yellow;
+}

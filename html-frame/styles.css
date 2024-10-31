@@ -1,0 +1,19 @@
+h1, #byline, blockquote{
+    text-align: center;
+}
+#byline{
+   font-family: serif; 
+}
+p{
+    font-family: sans-serif;
+}
+footer{
+    background-color: grey;
+    text-align: center;
+}
+#citation{
+    font-size: 75%;
+}
+#quote{
+    font-size: 200%;
+}
