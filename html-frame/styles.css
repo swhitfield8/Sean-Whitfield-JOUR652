@@ -1,4 +1,4 @@
-h1, #byline, blockquote{
+h1, blockquote{
     text-align: center;
 }
 #byline{
@@ -16,4 +16,11 @@ footer{
 }
 #quote{
     font-size: 200%;
+}
+#main-image{
+    width: 80%
+}
+.center{
+    display: flex;
+    justify-content: center; 
 }
