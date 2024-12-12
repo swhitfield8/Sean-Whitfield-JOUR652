@@ -1,12 +1,6 @@
 h1, blockquote{
     text-align: center;
 }
-#byline{
-   font-family: serif; 
-}
-p{
-    font-family: sans-serif;
-}
 footer{
     background-color: grey;
     text-align: center;
@@ -14,8 +8,9 @@ footer{
 #citation{
     font-size: 75%;
 }
-#quote{
+#blockquote{
     font-size: 200%;
+    font-style: italic;
 }
 #main-image{
     width: 80%
@@ -23,4 +18,9 @@ footer{
 .center{
     display: flex;
     justify-content: center; 
+    flex-direction:column;
+    align-items:center;
+}
+#img{
+    width: 50%;
 }
